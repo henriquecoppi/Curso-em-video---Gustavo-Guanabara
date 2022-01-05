@@ -1,0 +1,4 @@
+java script o guia definitivo -
+java script guia do programador - 
+guia de referencia da mozila - https://developer.mozilla.org/pt-BR/docs/Web/Guide
+guia de referencia javascript - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript

@@ -1,0 +1,2 @@
+ctrl+shift+p => abre pesquisa
+buscar terminal integrated default => setar como terminal que vc quer
